@@ -14,7 +14,7 @@ $ npm i @barbaros-dev/react-native-instagram-alerts --save
 import React from 'react';
 import { StyleSheet, View, Text, TouchableOpacity } from 'react-native';
 
-import InstagramAlert from '@barbaros-dev/react-native-instagram-alerts';
+import InstagramAlert from 'react-native-instagram-alerts';
 
 export default class App extends React.Component {
 

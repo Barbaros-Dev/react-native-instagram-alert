@@ -1,6 +1,6 @@
 {
-  "name": "@barbaros-dev/react-native-instagram-alerts",
-  "version": "1.0.2",
+  "name": "react-native-instagram-alerts",
+  "version": "1.0.3",
   "description": "Instagram alert for React Native iOS, android and web",
   "main": "index.js",
   "types": "index.d.ts",
