@@ -6,7 +6,7 @@
 
 ### Installation
 ```bash
-$ npm i @barbaros-dev/react-native-instagram-alerts --save
+$ npm i react-native-instagram-alerts --save
 ```
 
 ### Basic Usage

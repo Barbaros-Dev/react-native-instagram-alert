@@ -1,6 +1,6 @@
 {
   "name": "react-native-instagram-alerts",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "description": "Instagram alert for React Native iOS, android and web",
   "main": "index.js",
   "types": "index.d.ts",
