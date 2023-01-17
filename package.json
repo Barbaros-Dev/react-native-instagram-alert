@@ -1,0 +1,40 @@
+{
+  "name": "react-native-instagram-alerts",
+  "version": "2.0.0",
+  "description": "Instagram alert for React Native iOS, android and web",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "node node_modules/jest/bin/jest.js --watch"
+  },
+  "jest": {
+    "preset": "react-native",
+    "testPathIgnorePatterns": [
+      "/props.js",
+      "<rootDir>/node_modules"
+    ],
+    "timers": "fake"
+  },
+  "keywords": [
+    "react-native",
+    "alerts",
+    "dialog",
+    "iOS",
+    "android"
+  ],
+  "author": "barbarossa",
+  "license": "ISC",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "18.1.0",
+    "react-native": "0.70.5"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.14.5",
+    "babel-cli": "^6.26.0",
+    "babel-jest": "^27.0.2",
+    "jest": "^27.0.4",
+    "metro-react-native-babel-preset": "~0.66.0",
+    "react-test-renderer": "^16.14.0"
+  }
+}
