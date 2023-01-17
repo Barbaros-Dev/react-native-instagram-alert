@@ -6,7 +6,7 @@
 
 ### Installation
 ```bash
-$ npm i react-native-instagram-alerts --save
+$ npm i @barbaros-dev/react-native-instagram-alerts --save
 ```
 
 ### Basic Usage
@@ -14,7 +14,7 @@ $ npm i react-native-instagram-alerts --save
 import React from 'react';
 import { StyleSheet, View, Text, TouchableOpacity } from 'react-native';
 
-import InstagramAlert from 'react-native-instagram-alerts';
+import InstagramAlert from '@barbaros-dev/react-native-instagram-alerts';
 
 export default class App extends React.Component {
 
@@ -108,8 +108,8 @@ const styles = StyleSheet.create({
 | onDismiss                | `func`    | Callback for when alert is dismissed           | -       |
 | customView               | `object`  | Custom view to render inside alert             | null    |
 | modalProps               | `object`  | Additional props to pass for Modal             | -       |
-| confirmButtonTestID      | `string`  | Confirm button testID                          | awesome-alert-confirm-btn|
-| cancelButtonTestID       | `string`  | Cancel button testID                           | awesome-alert-cancel-btn|
+| confirmButtonTestID      | `string`  | Confirm button testID                          | instagram-alert-confirm-btn|
+| cancelButtonTestID       | `string`  | Cancel button testID                           | instagram-alert-cancel-btn|
 
 #### Styling
 
