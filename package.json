@@ -1,6 +1,6 @@
 {
-  "name": "react-native-instagram-alerts",
-  "version": "2.0.0",
+  "name": "@barbaros-dev/react-native-instagram-alerts",
+  "version": "1.0.0",
   "description": "Instagram alert for React Native iOS, android and web",
   "main": "index.js",
   "types": "index.d.ts",
@@ -22,7 +22,7 @@
     "iOS",
     "android"
   ],
-  "author": "barbarossa",
+  "author": "barbaros-dev",
   "license": "ISC",
   "dependencies": {
     "prop-types": "^15.7.2",
@@ -36,5 +36,13 @@
     "jest": "^27.0.4",
     "metro-react-native-babel-preset": "~0.66.0",
     "react-test-renderer": "^16.14.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barbaros-Dev/react-native-instagram-alert.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Barbaros-Dev/react-native-instagram-alert/issues"
+  },
+  "homepage": "https://github.com/Barbaros-Dev/react-native-instagram-alert#readme"
 }
