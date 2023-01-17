@@ -22,7 +22,7 @@
     "iOS",
     "android"
   ],
-  "author": "barbarossa",
+  "author": "barbaros-dev",
   "license": "ISC",
   "dependencies": {
     "prop-types": "^15.7.2",
